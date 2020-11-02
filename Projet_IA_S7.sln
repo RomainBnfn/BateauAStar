@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetIA_Voilier", "ProjetIA_Voilier\ProjetIA_Voilier.csproj", "{C9341332-9C6A-487F-9491-376FE62312E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voilier_IA", "Voilier_IA\Voilier_IA.csproj", "{C33899DE-3CC6-419B-9525-36C0FEF85885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projettaquin", "taquin\projettaquin\projettaquin.csproj", "{2D064FDA-009D-482D-B99E-9AABD9D89A47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C9341332-9C6A-487F-9491-376FE62312E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C9341332-9C6A-487F-9491-376FE62312E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C9341332-9C6A-487F-9491-376FE62312E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C9341332-9C6A-487F-9491-376FE62312E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33899DE-3CC6-419B-9525-36C0FEF85885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33899DE-3CC6-419B-9525-36C0FEF85885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33899DE-3CC6-419B-9525-36C0FEF85885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33899DE-3CC6-419B-9525-36C0FEF85885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\bin\Debug\projettaquin.exe.config
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\bin\Debug\projettaquin.exe
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\bin\Debug\projettaquin.pdb
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.csprojAssemblyReference.cache
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.Form1.resources
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.Properties.Resources.resources
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.csproj.GenerateResource.cache
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.csproj.CoreCompileInputs.cache
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.exe
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\taquin\projettaquin\obj\Debug\projettaquin.pdb

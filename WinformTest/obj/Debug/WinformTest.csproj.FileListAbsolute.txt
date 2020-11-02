@@ -1,0 +1,5 @@
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\WinformTest\obj\Debug\WinformTest.csprojAssemblyReference.cache
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\WinformTest\obj\Debug\WinformTest.Form1.resources
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\WinformTest\obj\Debug\WinformTest.Properties.Resources.resources
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\WinformTest\obj\Debug\WinformTest.csproj.GenerateResource.cache
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\WinformTest\obj\Debug\WinformTest.csproj.CoreCompileInputs.cache

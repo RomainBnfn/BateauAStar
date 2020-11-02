@@ -1,5 +1,4 @@
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA_Voilier.csprojAssemblyReference.cache
-C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA_Voilier.FenetreParametres.resources
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA.Properties.Resources.resources
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA_Voilier.csproj.GenerateResource.cache
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA_Voilier.csproj.CoreCompileInputs.cache
@@ -8,3 +7,4 @@ C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\bin\Debug\Pro
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\bin\Debug\ProjetIA.pdb
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA.exe
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA.pdb
+C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\ProjetIA_Voilier\obj\Debug\ProjetIA_Voilier.FenetreApplication.resources

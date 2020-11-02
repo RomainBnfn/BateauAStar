@@ -8,11 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjetIA_Voilier
+namespace WinformTest
 {
-    public partial class FenetreParametres : Form
+    public partial class Form1 : Form
     {
-        public FenetreParametres()
+
+
+
+        public Form1()
         {
             InitializeComponent();
         }

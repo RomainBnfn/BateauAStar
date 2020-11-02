@@ -20,10 +20,7 @@ namespace ProjetIA_Voilier
             Application.SetCompatibleTextRenderingDefault(false);
             while(continuer)
             { 
-                Application.Run(new FenetreParametres());
-                if (!continuer)
-                    break;
-                Application.Run(new FenetreGraphique());
+                Application.Run(new FenetreApplication());
             }
         }
     }
