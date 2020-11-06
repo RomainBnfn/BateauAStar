@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voilier_IA", "Voilier_IA\Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projettaquin", "taquin\projettaquin\projettaquin.csproj", "{2D064FDA-009D-482D-B99E-9AABD9D89A47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voilier_IA_V2", "Voilier_IA_V2\Voilier_IA_V2.csproj", "{F99A5CD2-C423-48D0-95A0-AA58DFB51E50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D064FDA-009D-482D-B99E-9AABD9D89A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99A5CD2-C423-48D0-95A0-AA58DFB51E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99A5CD2-C423-48D0-95A0-AA58DFB51E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99A5CD2-C423-48D0-95A0-AA58DFB51E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99A5CD2-C423-48D0-95A0-AA58DFB51E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

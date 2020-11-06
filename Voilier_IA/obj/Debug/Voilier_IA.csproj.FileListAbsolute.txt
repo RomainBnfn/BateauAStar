@@ -17,3 +17,20 @@ C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\Voilier_IA\obj\Debug\App.baml
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\Voilier_IA\obj\Debug\LabeledPoint.g.cs
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\Voilier_IA\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\romain\Documents\Cours_ENSC_S7\Projet_IA\Voilier_IA\obj\Debug\LabeledPoint.baml
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\bin\Debug\Voilier_IA.exe.config
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\bin\Debug\Voilier_IA.exe
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\bin\Debug\Voilier_IA.pdb
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.csprojAssemblyReference.cache
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\LabeledPoint.g.cs
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\MainWindow.g.cs
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\App.g.cs
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA_MarkupCompile.cache
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA_MarkupCompile.lref
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\App.baml
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\LabeledPoint.baml
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\MainWindow.baml
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.g.resources
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.Properties.Resources.resources
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.csproj.GenerateResource.cache
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.exe
+C:\Users\Romain\Documents\@Cours\!2020-2021 ENSC\ProjetIA\Voilier_IA\obj\Debug\Voilier_IA.pdb

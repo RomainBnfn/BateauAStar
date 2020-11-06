@@ -13,13 +13,6 @@
         </Grid.ColumnDefinitions>
         <GroupBox Grid.Column="0" x:Name="groupBox_Parametres" Header="Paramètres" FontSize="22" FontFamily="Calibri" Margin="5">
             <StackPanel Margin="5">
-
-                <GroupBox Header="Taille de la carte (km)" FontSize="16" Margin="5">
-                    <StackPanel>
-                        <Label  x:Name="label_TailleCarte" Content="{Binding ElementName=slider_TailleCarte, Path=Value, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center"/>
-                        <Slider x:Name="slider_TailleCarte" Minimum="200" Maximum="1000" SmallChange="50" TickFrequency="50" Value="{Binding TailleCarte, Mode = TwoWay}" TickPlacement="TopLeft" LargeChange="50" IsSnapToTickEnabled="True" ValueChanged="Slider_TailleCarte_ValueChanged" />
-                    </StackPanel>
-                </GroupBox>
                 <GroupBox Header="Précision du cadrillage" FontSize="16" Margin="5">
                     <StackPanel>
                         <TextBlock x:Name="label_textNbCases" TextWrapping="WrapWithOverflow" Text="{Binding TextNbCase, Mode = OneWay}" FontSize="14" FontStyle="Italic"/>
@@ -27,7 +20,7 @@
                         <Slider x:Name="slider_Precision" Minimum="2" Maximum="50" SmallChange="5" TickFrequency="1" Value="{Binding Precision, Mode = TwoWay}" TickPlacement="TopLeft" LargeChange="5" IsSnapToTickEnabled="True" ValueChanged="Slider_Precision_ValueChanged" />
                     </StackPanel>
                 </GroupBox>
-                <GroupBox Header="Position initiale (numéros de cases)" FontSize="16" Margin="5">
+                <GroupBox Header="Position initiale (entre 0 et la taille de la carte)" FontSize="16" Margin="5">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
@@ -43,7 +36,7 @@
                         </StackPanel>
                     </Grid>
                 </GroupBox>
-                <GroupBox Header="Position finale (numéros de cases)" FontSize="16" Margin="5">
+                <GroupBox Header="Position finale (entre 0 et la taille de la carte)" FontSize="16" Margin="5">
                     <Grid>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
